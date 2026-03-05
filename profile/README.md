@@ -155,7 +155,7 @@ Independent, careful, and engineering-first.
 
 GitHub:
 
-* [https://github.com/DeepLunia](https://github.com/DeepLunia)
+* [https://github.com/DeepLunatic](https://github.com/DeepLunatic)
 * [https://github.com/XDL-MoonWake](https://github.com/XDL-MoonWake)
 * [https://github.com/XDL-Dreamvast](https://github.com/XDL-Dreamvast)
 * [https://github.com/XDL-LunaStream](https://github.com/XDL-LunaStream)
